@@ -1,0 +1,45 @@
+.cards {
+    margin-top: 30px;
+    padding-top: 20px;
+}
+
+.description {
+    text-align: center;
+    justify-content: center;
+    color:whitesmoke;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Home {
+    text-align: center; /* Center text and images */
+    background-color: black;
+    
+
+   
+}
+
+.image-container {
+    display: flex; /* Use Flexbox */
+    justify-content: center; /* Center images horizontally */
+    gap: 10px; /* Space between images */
+    margin-bottom: 20px; /* Space below images */
+    margin-top: 20px;
+    
+}
+
+.image-container img {
+    width: 100px; /* Adjust the size of the images */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.link {
+    font-size: 1.5rem;
+}
+
+.row {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
